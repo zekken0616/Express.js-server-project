@@ -1,8 +1,8 @@
-# Learning backend fromework Express js (in progress)
+# Learning backend framework Express.js (in progress)
 
 ## Goal
 
-1. get used to backend deveopment using Express js
+1. get used to backend development using Express.js
 2. learn industrial practice
 
 ## Features
@@ -17,7 +17,7 @@
 8. Hashing Passwords using bcrypt.
 9. Unit Testing using Jest (not finished)
 
-## future plan
+## Future plan
 
-1. try unit test, integration and E2E testing
-2. Make a new project by myself
+1. Try unit test, integration and E2E testing
+2. Make a new project
